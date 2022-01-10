@@ -17,7 +17,7 @@ install.packages(ggradar)
 
 ## Graphical abstract
 
-![alt text](https://github.com/taiscarvalho/chla-prediction-ce/main/graphical-abstract.png)
+![alt text](https://github.com/taiscarvalho/chla-prediction-ce/blob/main/graphical-abstract.png)
 
 
 ## License

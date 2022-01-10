@@ -17,7 +17,7 @@ install.packages(ggradar)
 
 ## Graphical abstract
 
-![alt text](https://raw.github.com/taiscarvalho/ml_waterdemand/master/graphical-abstract.png)
+![alt text](https://raw.github.com/taiscarvalho/ml_waterdemand/main/graphical-abstract.png)
 
 
 ## License

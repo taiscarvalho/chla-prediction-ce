@@ -1,5 +1,5 @@
 # Uncovering the influence of hydrological and climate variables in chlorophyll-a concentration in tropical reservoirs with machine learning
-The codes contained here implement the methods of the paper "Uncovering the influence of hydrological and climate variables in chlorophyll-a concentration in tropical reservoirs with machine learning", submitted to Water Resources Research. The code includes the R implementation of the evaluated Machine Learning models, and the figures presented in the manuscript. Also, all data used in the paper is available in the file "dataset_chla_ceara.csv".
+The codes contained here implement the methods of the paper "Uncovering the influence of hydrological and climate variables in chlorophyll-a concentration in tropical reservoirs with machine learning". The code includes the R implementation of the evaluated Machine Learning models, and the figures presented in the manuscript. Also, all data used in the paper is available in the file "dataset_chla_ceara.csv".
 
 ## Requirements
 Before running the code, you need to install the following packages:
